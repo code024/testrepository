@@ -1,0 +1,2 @@
+Mean,Median (Q2),Variance,Std Deviation,Min,Max,Q1 (25th Percentile),Q3 (75th Percentile),D9 (90th Percentile),P95 (95th Percentile),Skewness,Kurtosis
+61.31666666666667,60.5,358.44972222222225,18.932768477489557,25,99,48.75,73.5,89.1,93.05,0.08976093107966236,-0.7311114707584996
